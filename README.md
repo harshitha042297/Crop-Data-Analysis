@@ -1,5 +1,5 @@
 
-Project Title: Crop Data Analysis:
+Project Title: Crop Data Analysis
 
 Project Completion Timeline: January 2023 - April 2023
 
